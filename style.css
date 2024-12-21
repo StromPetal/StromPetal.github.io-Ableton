@@ -1,15 +1,11 @@
-
-/* .nav{
-     background-color: pink; 
-} */
 .right{
     position: relative;
-    bottom: 1px;
+    top: 1em;
     left: 80em;
 }
 
 .left{
     position: relative;
-    top: 2px; 
+    top: 2em; 
     left: 2em;
 }
