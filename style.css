@@ -2,10 +2,16 @@
     position: relative;
     top: 1em;
     left: 80em;
+    color: black;
 }
 
 .left{
     position: relative;
     top: 2em; 
     left: 2em;
+    color: black;
+}
+
+a{
+    color: black;
 }
