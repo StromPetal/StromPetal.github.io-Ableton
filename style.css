@@ -4,7 +4,6 @@
 .nav {
     display: flex;
     justify-content: space-between; /* Aligns left and right sections */
-    align-items: center; /* Centers vertically */
     padding: 0 2em; /* Adds padding on the sides */
     overflow-x: hidden; /* Prevents horizontal overflow */
 }
