@@ -24,5 +24,6 @@ hr {
 
 .img{
     color: rgb(255, 115, 0);
+    width: 90px;
     z-index: -1;
 }
