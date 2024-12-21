@@ -1,0 +1,15 @@
+
+/* .nav{
+     background-color: pink; 
+} */
+.right{
+    position: relative;
+    bottom: 1px;
+    left: 80em;
+}
+
+.left{
+    position: relative;
+    top: 2px; 
+    left: 2em;
+}
