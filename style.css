@@ -15,3 +15,10 @@ a{
     text-decoration: none;
     margin-right: 10px;
 }
+
+hr {
+    border: 0;
+    height: 1px;
+    background: linear-gradient(to right, #ccc, #000, #ccc); /* Adds a gradient */
+    margin: 20px 0; /* Adds spacing around the line */
+}
