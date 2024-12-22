@@ -23,6 +23,12 @@ hr {
 }
 
 .img{
+    z-index: -1;
     display: flex;
     justify-content: center;
+}
+
+.Ableton{
+    color: rgb(255, 153, 0);
+    text-align: center;
 }
