@@ -36,8 +36,7 @@ img{
     position: absolute;
     top: 15em;
     left: 27em;
-    width: 10em;
-    height: 10em;
+    font-size: 2em;
     color: rgb(255, 153, 0);
     text-align: center;
 }
