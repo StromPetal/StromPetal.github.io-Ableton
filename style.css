@@ -22,10 +22,12 @@ hr {
     margin: 20px 0; /* Adds spacing around the line */
 }
 
-img{
-    position: absolute;
+.img{
     display: flex;
     justify-content: center;
+}
+
+img{
     z-index: -1;
 }
 
