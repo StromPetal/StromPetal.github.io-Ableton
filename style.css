@@ -23,6 +23,6 @@ hr {
 }
 
 .img{
-    color: rgb(255, 115, 0);
-    z-index: -1;
+    display: flex;
+    justify-content: center;
 }
