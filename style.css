@@ -24,8 +24,8 @@ hr {
 
 img{
     position: absolute;
-    height: 40em;
-    width: 55em;
+    height: 35em;
+    width: 60em;
     left: 20em;
     top: 10em;
     display: flex;
@@ -34,7 +34,7 @@ img{
 }
 .Ableton{
     position: absolute;
-    left: 10em;
+    left: 11em;
     top: 5em;
     font-size: 4em;
     color: rgb(255, 153, 0);
