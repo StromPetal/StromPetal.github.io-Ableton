@@ -22,15 +22,16 @@ hr {
     margin: 20px 0; /* Adds spacing around the line */
 }
 
-.img{
+img{
+    position: absolute;
+    height: 130px;
+    width: 120px;
+    left: 4px;
+    top: 0px;
     display: flex;
     justify-content: center;
-}
-
-img{
     z-index: -1;
 }
-
 .Ableton{
     color: rgb(255, 153, 0);
     text-align: center;
