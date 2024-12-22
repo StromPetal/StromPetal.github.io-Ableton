@@ -40,3 +40,8 @@ img{
     color: rgb(255, 98, 0);
     text-align: center;
 }
+
+.text1{
+    position: absolute;
+    left: 15em;
+}
