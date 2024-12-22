@@ -33,6 +33,8 @@ img{
     z-index: -1;
 }
 .Ableton{
+    position: absolute;
+    top: 15em;
     color: rgb(255, 153, 0);
     text-align: center;
 }
