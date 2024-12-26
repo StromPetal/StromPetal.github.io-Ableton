@@ -48,10 +48,10 @@ img{
 }
 
 .yellowbox{
-    height: 50px;
-    width: 30px;
+    height: 500px;
+    width: 700px;
     background-color: yellow;
     position: absolute;
-    top: 90em;
-    left: 50em;
+    top: 50em;
+    left: 40em;
 }
