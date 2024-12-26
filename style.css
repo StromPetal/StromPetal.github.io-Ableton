@@ -11,9 +11,10 @@
 .left a, .right a, .bottom a {
     margin: 0 1em; /* Adds spacing between links */
     color: black;
-    top: 1em;
+    top: 2em;
     text-decoration: none;
 }
+
 
 hr {
     border: 0;
