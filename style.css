@@ -31,6 +31,14 @@ hr {
     text-align: center;
 }
 
+img{
+    position: absolute;
+    left: 15em;
+    top: 15em;
+    width: 70em;
+    height: 32em;
+}
+
 .text1{
     position: absolute;
     left: 20em;
