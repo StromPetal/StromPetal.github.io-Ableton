@@ -63,3 +63,10 @@ hr {
     left: 970px;
     top: 90em;
 }
+
+.text2{
+    position: absolute;
+    left: 20em;
+    font-size: 20px;
+    padding: 10em;
+}
