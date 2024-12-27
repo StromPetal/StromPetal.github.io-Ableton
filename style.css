@@ -22,16 +22,6 @@ hr {
     background: linear-gradient(to right, #ccc, #000, #ccc); /* Adds a gradient */
     margin: 20px 0; /* Adds spacing around the line */
 }
-
-.img{
-    height: 33em;
-    width: 50em;
-    left: 30px;
-    top: 20px;
-    display: flex;
-    justify-content: center;
-    z-index: -1;
-}
 .Ableton{
     position: absolute;
     left: 4.5em;
