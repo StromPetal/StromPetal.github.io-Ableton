@@ -23,12 +23,11 @@ hr {
     margin: 20px 0; /* Adds spacing around the line */
 }
 
-.img1{
-    position: absolute;
-    height: 35em;
-    width: 20em;
-    padding-left: 20em;
-    top: 8em;
+.img{
+    height: 33em;
+    width: 50em;
+    left: 30px;
+    top: 20px;
     display: flex;
     justify-content: center;
     z-index: -1;
