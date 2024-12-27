@@ -24,19 +24,17 @@ hr {
 }
 .Ableton{
     position: absolute;
-    left: 4.5em;
-    top: 2em;
+    left: 480px;
+    top: 100px;
     font-size: 8em;
-    color: rgb(255, 81, 0);
+    color: rgb(255, 86, 86);
     text-align: center;
 }
 
-img{
+.alb-img{
     position: absolute;
-    left: 15em;
-    top: 15em;
-    width: 70em;
-    height: 30em;
+    left: 7em;
+    top: 10em;
 }
 
 .text1{
@@ -48,8 +46,22 @@ img{
 .yellowbox{
     height: 900px;
     width: 798px;
-    background-color: rgba(251, 251, 56, 0.897);
+    background-color: rgb(251, 255, 167);
     position: absolute;
     top: 70em;
     left: 45em;
+}
+
+.yell-img1{
+    position: absolute;
+    left: 170px;
+    top: 80em;
+}
+
+.yell-img2{
+    position: absolute;
+    left: 200px;
+    top: 80em;
+    width: 30em;
+    height: 30em;
 }
