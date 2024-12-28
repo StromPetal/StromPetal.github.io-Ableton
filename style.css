@@ -85,9 +85,30 @@ hr {
 }
 
 .greenbox{
-    height: 900px;
-    width: 798px;
+    height: 940px;
+    width: 870px;
     background-color: rgb(148, 238, 132);
     position: absolute;
     top: 220em;
+    left: 0em;
+}
+
+.green-img-1{
+    position: absolute;
+    top: 225em;
+    left: 8em;
+    width: 20em;
+    height: 30em;
+}
+
+.green-img-2{
+    position: absolute;
+    top: 252em;
+    left: 8em;
+}
+
+.green-img-3{
+    position: absolute;
+    top: 230em;
+    left: 48em;   
 }
