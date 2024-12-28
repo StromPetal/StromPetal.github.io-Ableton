@@ -112,3 +112,21 @@ hr {
     top: 230em;
     left: 48em;   
 }
+
+.text4{
+    position: absolute;
+    top: 285em;
+    left: 20em;
+}
+
+.img5{
+    position: absolute;
+    left: 7em;
+    top: 305em;   
+}
+
+.text5{
+    position: absolute;
+    top: 350em;
+    left: 20em;
+}
