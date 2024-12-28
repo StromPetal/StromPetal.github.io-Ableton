@@ -132,10 +132,22 @@ hr {
 }
 
 .purplebox{
-    height: 940px;
+    height: 700px;
     width: 870px;
     background-color: rgb(219, 178, 245);
     position: absolute;
     top: 370em;
     left: 20em;
+}
+
+.purple-img-1{
+    position: absolute;
+    left: 15em;
+    top: 390em;   
+}
+
+.purple-img-2{
+    position: absolute;
+    left: 80em;
+    top: 360em;
 }
