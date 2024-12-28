@@ -1,5 +1,5 @@
 *{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
 }
 .nav {
     display: flex;
@@ -128,5 +128,14 @@ hr {
 .text5{
     position: absolute;
     top: 350em;
+    left: 20em;
+}
+
+.purplebox{
+    height: 940px;
+    width: 870px;
+    background-color: rgb(219, 178, 245);
+    position: absolute;
+    top: 370em;
     left: 20em;
 }
