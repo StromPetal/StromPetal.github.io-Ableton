@@ -157,3 +157,29 @@ hr {
     top: 420em;
     left: 25em;   
 }
+
+.purple{
+    position: absolute;
+    top: 440em;
+    left: 170px;
+}
+
+.purplebox2{
+    height: 590px;
+    width: 640px;
+    background-color: rgba(186, 203, 255, 255);
+    position: absolute;
+    top: 440em;
+    left: 48em;
+}
+
+.purple-text{
+    position: absolute;
+    top: 12em;
+    left: 7em;
+}
+
+.purple-link a{
+    text-decoration: none;
+    color: blue;
+}
