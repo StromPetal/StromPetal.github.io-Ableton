@@ -16,12 +16,12 @@
 }
 
 
-hr {
+/* hr {
     border: 0;
     height: 1px;
     background: linear-gradient(to right, #ccc, #000, #ccc); /* Adds a gradient */
     margin: 20px 0; /* Adds spacing around the line */
-}
+} */
 .Ableton{
     position: absolute;
     left: 480px;
@@ -183,3 +183,16 @@ hr {
     text-decoration: none;
     color: blue;
 }
+
+.alb{
+    position: absolute;
+    top: 250em;
+}
+/* 
+.footerhr{
+    position: absolute;
+    top: 240em;
+    border: 20em;
+    height: 1px;
+    background: linear-gradient(to right, #ccc, #000, #ccc); /* Adds a gradient */  
+} */
