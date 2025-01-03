@@ -182,11 +182,3 @@
     position: absolute;
     top: 250em;
 }
-/* 
-.footerhr{
-    position: absolute;
-    top: 240em;
-    border: 20em;
-    height: 1px;
-    background: linear-gradient(to right, #ccc, #000, #ccc); /* Adds a gradient */  
-} */
